@@ -1,1 +1,3 @@
-# passport-jwt-simple
+#PassportJS JWT Simple Strategy
+
+JWT Simple Strategy for use with PassportJS
