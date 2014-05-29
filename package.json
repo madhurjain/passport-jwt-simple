@@ -1,0 +1,30 @@
+{
+  "name": "passport-jwt-simple",
+  "description": "Passport JWT Simple Strategy",
+  "version": "0.1.0",
+  "main": "./lib",
+  "author": "Madhur Jain <mformadhur@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "passport",
+    "jwt",
+    "authentication",
+    "login"
+  ],
+  "dependencies": {
+    "passport-strategy": "1.x.x",
+    "jwt-simple": "~0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhurjain/passport-jwt-simple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madhurjain/passport-jwt-simple/issues"
+  },
+  "homepage": "https://github.com/madhurjain/passport-jwt-simple",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
